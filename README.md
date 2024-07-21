@@ -6,3 +6,4 @@ The program has a plethora of functions such to deal with all the clients reques
 
 Example functions include returning data such as the ranking of the riders when given the results, removal of stages, adding riders to teams. 
 
+Main code is in GivenCode/src/cycling/CyclingPortalImpl.java
